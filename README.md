@@ -1,1 +1,3 @@
-# Word_Classifier_in_Lip_Reading
+# Word Classification in Lip-Reading
+
+[View Full Project Report](./Capstone_BlackBook.pdf)
